@@ -1,5 +1,3 @@
-/* style.css */
-
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +11,6 @@ body {
     color: white;
 }
 
-/* NAVBAR */
 
 header {
     width: 100%;
@@ -117,7 +114,6 @@ header {
     width: 350px;
 }
 
-/* SECTION */
 
 section {
     padding: 80px 10%;
@@ -130,7 +126,6 @@ section {
     color: #38bdf8;
 }
 
-/* ABOUT */
 
 .about-container {
     display: flex;
@@ -157,7 +152,6 @@ section {
     text-align: center;
 }
 
-/* SKILLS */
 
 .skills-container {
     display: grid;
@@ -183,7 +177,6 @@ section {
     margin-bottom: 15px;
 }
 
-/* PROJECTS */
 
 .project-container {
     display: grid;
@@ -202,7 +195,6 @@ section {
     transform: scale(1.03);
 }
 
-/* EDUCATION */
 
 .education-card {
     background: #1e293b;
@@ -211,7 +203,7 @@ section {
     text-align: center;
 }
 
-/* CERTIFICATIONS */
+
 
 .cert-container {
     display: grid;
@@ -225,8 +217,6 @@ section {
     border-radius: 10px;
     text-align: center;
 }
-
-/* CONTACT */
 
 .contact-container {
     display: grid;
@@ -247,7 +237,6 @@ section {
     margin-bottom: 10px;
 }
 
-/* FOOTER */
 
 footer {
     text-align: center;
@@ -255,7 +244,7 @@ footer {
     background: #111827;
 }
 
-/* RESPONSIVE */
+
 
 @media(max-width:768px) {
 

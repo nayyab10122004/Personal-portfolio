@@ -1,4 +1,3 @@
-// script.js
 
 const menuBtn = document.querySelector(".menu-btn");
 const navLinks = document.querySelector(".nav-links");
@@ -7,7 +6,6 @@ menuBtn.addEventListener("click", () => {
     navLinks.classList.toggle("active");
 });
 
-// Smooth reveal animation
 
 const cards = document.querySelectorAll(
     ".skill-card, .project-card, .cert-card, .contact-box, .info-box"
